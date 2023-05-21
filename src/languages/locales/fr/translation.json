@@ -1,0 +1,33 @@
+{
+	"email.any.question":"Have you any questions ?",
+	"email.send":"Send me an Email",
+	"email.fullname":"Full Name",
+	"email.name":"Email",
+	"email.message":"Message",
+	"main.folio":"folio",
+	"main.hello":"hello",
+	"main.coder.text":"I'm a Coder",
+	"main.presentation":"My name's Soumaya and I'm a Full-stack Engineer based in France. A self-determined indivual that loves to connect and work with others.",
+    "main.presentation.ask.contact": "Feel free to contact me for more information.",
+	"main.backend.text":"Java, Spring framework, Spring security, JPA, SQL, Eclipse, Broker, WebService, Jackson",
+	"main.backend.title":"Back-End",
+	"main.frontend.title":"Front-End",
+	"main.frontend.text":"React, PrimeReact, Html5, Css3, Bootsrap5, PrimeFlex, NodeJs, Javascript, PrimeFaces, VS Code, NPM",
+	"main.hobbies.title":"Hobbies",
+	"main.hobbies.text":"Coding, Discussion with people, Sport, Tennis, Discovering, Drawing, Meditation, Yoga, Traveling",
+	"sdlc.question":"Hold on a minute ! Have you ever heard about SDLC ? ",
+	"sdlc.presentation":"Software Development Life Cycle (SDLC) is a series of activities essential for creating high-quality software. All this at the lowest possible cost and in the shortest possible time. The role of the SDLC is to provide the company with an efficient process of creating software which is tested and ready to use. ",
+    "sdlc.phases":"What are the 6 phases of SDLC ?",
+	"sdlc.phase.planning":"Planning",
+	"sdlc.phase.analysis":"Analysis",
+	"sdlc.phase.design":"Design",
+	"sdlc.phase.development":"Development",
+	"sdlc.phase.testingAndDeployment":"Test&Deployment",
+	"sdlc.phase.maintenance":"Maintenance",
+	"sdlc.phase.planning.text":"Planning is the phase where the scope and objectives of the project are determined ",
+	"sdlc.phase.analysis.text":"Team will analyze the business requirements to understand what needs to be done to create the software solution",
+	"sdlc.phase.design.text":"Team will create the software architecture, design the user interface, and code the software"
+
+}
+
+

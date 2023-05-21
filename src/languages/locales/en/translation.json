@@ -1,0 +1,20 @@
+{
+	"email.any.question":"Have you any questions ?",
+	"email.send":"Send me an Email",
+	"email.fullname":"Full Name",
+	"email.name":"Email",
+	"email.message":"Message",
+	"main.folio":"folio",
+	"main.hello":"hello",
+	"main.coder.text":"I'm a Coder",
+	"main.presentation":"My name's Soumaya and I'm a Full-stack Engineer based in France. A self-determined indivual that loves to connect and work with others.",
+    "main.presentation.ask.contact": "Feel free to contact me for more information.",
+	"main.backend.text":"Java, Spring framework, Spring security, JPA, SQL, Eclipse, Broker, WebService, Jackson",
+	"main.backend.title":"Back-End",
+	"main.frontend.title":"Front-End",
+	"main.frontend.text":"React, PrimeReact, Html5, Css3, Bootsrap5, PrimeFlex, NodeJs, Javascript, PrimeFaces, VS Code, NPM",
+	"main.hobbies.title":"Hobbies",
+	"main.hobbies.text":"Coding, Discussion with people, Sport, Tennis, Discovering, Drawing, Meditation, Yoga, Traveling"
+
+}
+
